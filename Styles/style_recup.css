@@ -1,0 +1,55 @@
+.formfgt1
+{
+	margin-bottom:50px;
+}
+
+fieldset, #fgt
+{
+	margin-top:20px;
+	margin-bottom:40px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.tab1fgtcel1
+{
+	width:100px;
+	padding:7px;
+} 
+
+.tab2fgtcel1
+{
+	width:100px;
+}
+
+#tab1fgt
+{
+	padding-left:120px;
+}
+
+#tab2fgt
+{
+	padding-left:20px;
+}
+
+#tab1fgt input[type="text"], #tab1reg input[type="email"]
+{
+	width:500px;
+}
+
+
+#tab2fgt input[type="text"]
+{
+	width:600px;
+}
+
+.formboutons
+{
+	margin-top:20px;
+	margin-left:400px;
+}
+
+.red
+{
+	color:red;
+}

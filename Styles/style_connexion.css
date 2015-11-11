@@ -1,0 +1,22 @@
+fieldset
+{
+	margin-bottom:20px;
+	padding-bottom:30px;
+}
+
+#tablog
+{
+	margin-left:300px;
+	margin-bottom:20px;
+	margin-top:20px;
+}
+
+#formboutons
+{
+	margin-left:370px;
+}
+
+.red
+{
+	color:red;
+}

@@ -1,0 +1,61 @@
+#tabpm
+{
+	margin-left:272px;
+	margin-top:40px;
+	margin-bottom:40px;
+	border-spacing:0px;
+}
+
+#tabpm td
+{
+	width:50px;
+	height:50px;
+	padding:0px;
+}
+
+#tr1td6, #tr1td7
+{
+	width:70px;
+}
+
+#tr1td1, #tr1td3, #tr1td4, #tr1td6, #tr3td6, #tr5td2, #tr5td3, #tr5td4, #tr6td4, #tr6td6, #tr6td8, #tr7td2, #tr7td4, #tr8td4, #tr8td6
+{
+	border-bottom:7px black solid;
+}
+
+#tr1td2, #tr1td5, #tr1td7, #tr3td1, #tr3td7, #tr5td5, #tr5td6, #tr5td7, #tr6td1, #tr6td5, #tr6td7, #tr7td3, #tr7td5, #tr8td5, #tr8td7
+{
+	border-bottom:7px black solid;
+	border-right:7px black solid;
+}
+
+#tr2td1, #tr2td5, #tr2td7, #tr3td5, #tr4td1, #tr4td5, #tr4td6, #tr4td7, #tr5td1, #tr6td3, #tr7td1, #tr7td7, #tr8td1, #tr8td3, #tr9td1, #tr9td3, #tr9td7
+{
+	border-right:7px black solid;
+}
+
+.silver
+{
+	background-color:RGB(238, 236, 234);
+}
+
+.yellow
+{
+	background-color:RGB(253, 227, 91);
+}
+
+.red
+{
+	background-color:RGB(230, 28, 12);
+}
+
+.black
+{
+	background-color:black;
+}
+
+.blue
+{
+	background-color:RGB(19, 2, 160);
+}
+

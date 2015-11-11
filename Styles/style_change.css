@@ -1,0 +1,44 @@
+#formfgt1
+{
+	margin-bottom:50px;
+}
+
+fieldset
+{
+	margin-top:20px;
+	margin-bottom:40px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+#tab1fgt
+{
+	padding-left:120px;
+}
+
+.tab1fgtcel1
+{
+	width:150px;
+	padding:7px;
+} 
+
+#tab1fgt input[type="text"], #tab1reg input[type="email"]
+{
+	width:500px;
+}
+
+.formboutons
+{
+	margin-top:20px;
+	margin-left:400px;
+}
+
+.red
+{
+	color:red;
+}
+
+.blue
+{
+	color:blue;
+}

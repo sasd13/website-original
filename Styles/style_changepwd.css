@@ -1,0 +1,43 @@
+form
+{
+	margin-bottom:50px;
+}
+
+fieldset
+{
+	margin-top:20px;
+	margin-bottom:40px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.tab1regcel1
+{
+	width:250px;
+} 
+
+.tab2regcel1
+{
+	width:150px;
+}
+
+#tab1reg input[type="text"], #tab1reg input[type="email"]
+{
+	width:500px;
+}
+
+
+#tab2reg input[type="text"]
+{
+	width:600px;
+}
+
+#formboutons
+{
+	margin-left:400px;
+}
+
+.red
+{
+	color:red;
+}

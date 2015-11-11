@@ -1,0 +1,51 @@
+/* Article */
+
+.titrecellule1{
+	background-color:red;
+}
+
+.titrecv
+{
+	margin-top:50px;
+	margin-bottom:30px;
+	border-top-color: black;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	text-align:center;
+	font-size:24px;
+	font-weight:bold;
+	background-color:#B6B6B6;
+}
+
+.tabcv
+{
+	margin-top:20px;
+	margin-left:10px;
+}
+
+.tabcv td
+{
+	text-align:left;
+	vertical-align:top;
+}
+
+.tabcvcel0
+{
+	width:800px;
+}
+
+.tabcvcel1
+{
+	width:300px;
+}
+
+img[alt="moi"]
+{
+	margin-top:20px;
+	margin-left:0px;
+	width:130px;
+	height:170px;
+}

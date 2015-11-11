@@ -1,0 +1,60 @@
+select, input, textarea {
+					font-size: 1em;
+				}
+				h2 {
+					margin-top: 1.2em;
+					margin-bottom: 0;
+					padding: 0;
+					border-bottom: 1px dotted #dedede;
+				}
+				h3 {
+					margin-top: 1.2em;
+					margin-bottom: 0;
+					padding: 0;
+				}
+				.example {
+					border: 1px solid #CCC;
+					background: #f2f2f2;
+					padding: 10px;
+				}
+				#gallery ul {
+					list-style-image:url(list-style.gif);
+				}
+				pre {
+					font-family: "Lucida Console", "Courier New", Verdana;
+					border: 1px solid #CCC;
+					background: #f2f2f2;
+					padding: 10px;
+				}
+				code {
+					font-family: "Lucida Console", "Courier New", Verdana;
+					margin: 0;
+					padding: 0;
+				}
+				.par {
+					margin-left: 160px;
+					margin-bottom:30px;
+				}
+				#gallery {
+					padding: 30px;
+					background: #e1eef5;
+					margin-left: 160px;
+					margin-top:40px;
+				}
+				#descriptions {
+					position: relative;
+					height: 50px;
+					background: #EEE;
+					margin-top: 10px;
+					margin-left: 160px;
+					margin-bottom: 20px;
+					width: 640px;
+					padding: 10px;
+					overflow: hidden;
+				}
+				#descriptions .ad-image-description {
+					position: absolute;
+				}
+				#descriptions .ad-image-description .ad-description-title {
+					display: block;
+				}
